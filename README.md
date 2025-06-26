@@ -1,2 +1,1 @@
-# bocilmemekmulus
-bocilmemekmulus
+# [bocilmemekmulus](https://bocilmemekmulus.pages.dev)
